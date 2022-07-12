@@ -1,7 +1,8 @@
 prettyping
 ==========
 
-[Donation - buy me a coffee](https://denilson.sa.nom.br/donate.html)
+[Donate to denilsonsa](https://denilson.sa.nom.br/donate.html)
+[Donate to traisjames](https://www.paypal.com/donate/?hosted_button_id=WRFQ7565DYW92)
 
 `prettyping` is a wrapper around the standard `ping` tool with the objective of
 making the output prettier, more colorful, more compact, and easier to read.
@@ -38,7 +39,7 @@ That's all! No root permission is required. You can save and run it from any
 directory. As long as your user can run `ping`, `bash` and `awk`, then
 `prettyping` will work.
 
-Alternatively, you can download the latest tarball from GitHub: [![Latest release](https://img.shields.io/github/release/denilsonsa/prettyping.svg)](https://github.com/denilsonsa/prettyping/releases/latest)
+Alternatively, you can download the latest tarball from [GitHub](https://github.com/traisjames/prettyping/releases/latest)
 
 For people building a `prettyping` package (for any Linux distro or for Mac OS
 X), just install the `prettyping` script into `/usr/bin/`, or whatever
