@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #
-# Written by Denilson Figueiredo de Sá <denilsonsa@gmail.com>
+# Original by Denilson Figueiredo de Sá <denilsonsa@gmail.com>
+# Updates by traisjames
 # MIT license
 #
 # Requirements:
@@ -16,19 +17,10 @@
 
 # TODO: Adjust how many items in the legend are printed based on the terminal width.
 #
-# TODO: Detect the following kinds of message and avoid printing it repeatedly.
-# From 192.168.1.11: icmp_seq=4 Destination Host Unreachable
-# Request timeout for icmp_seq 378
-#
-# TODO: Handle when a single message is spread over multiple lines. Specially,
-# like in this case: https://bitbucket.org/denilsonsa/small_scripts/issue/5
-#
 # TODO: Print the destination (also) at the bottom bar. Useful after leaving
 # the script running for quite some time.
 #
 # TODO: Print the destination as escape codes to xterm title.
-#
-# TODO: Print the current time in the beginning of each line.
 #
 # TODO: Implement audible ping.
 #
